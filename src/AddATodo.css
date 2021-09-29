@@ -1,0 +1,56 @@
+.main{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: gray;
+}
+.card {
+    padding-left: 20px;
+}
+.h3 {
+    font-size: 20px;
+    color:blue;
+    margin: 2px;
+}
+.c-white{
+    color: white;
+}
+label {
+    display: block;
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+}
+input{ 
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+input[type=text] {
+    color: rgb(139, 133, 133);
+    font-size: 17px;
+    font-weight: 300px;
+}
+.btn{
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+}
+.add-btn {
+    background-color: blueviolet;
+}
+.edit-btn {
+    background-color: blue;
+}
+.delete-btn{
+    background-color: red;
+}
+.cancel-btn{
+    background-color: rgb(37, 238, 245);
+}
+table {
+    text-align: center;
+}
